@@ -4,21 +4,20 @@ This Patient Information System is based on Tkinter, a graphical user interface 
 
 ## Requirements
 
-- python=3
-- sqlite3
+- Python 3
 
-## Usage
+## Instructions
 
-- Clone this repository to a directory of your choice.
+Clone this repository.
 
-```bash
+```ps
 git clone https://github.com/ptanmay143/patient-information-system.git
-cd patient-information-system
+Set-Location patient-information-system
 ```
 
-- Run the program.
+Run the program.
 
-```bash
+```ps
 python patient-information-system.py
 ```
 
