@@ -1,6 +1,6 @@
 # Patient Information System
 
-A simple system to manage information about patients.
+Manage information about patients using a GUI
 
 ## Description
 
@@ -11,13 +11,6 @@ This Patient Information System is based on Tkinter, a graphical user interface 
 - Python 3
 
 ## Instructions
-
-Clone this repository.
-
-```ps
-git clone https://github.com/ptanmay143/patient-information-system.git
-Set-Location patient-information-system
-```
 
 Run the program.
 
