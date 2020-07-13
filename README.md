@@ -1,6 +1,6 @@
 # Patient Information System
 
-Manage information about patients using a GUI
+> Manage information about patients using a GUI
 
 ## Description
 
